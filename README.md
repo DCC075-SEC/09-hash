@@ -1,6 +1,6 @@
 # Hash 
 
-Programa em Python que calcula dois hashes simples de 16 bits para um texto digitado pelo usuário. Feito para a disciplina DCC075 (Segurança em Sistemas de Computação, UFJF), com base nas "Duas funções de hash simples" vistas em aula.
+Programa em Python que calcula dois hashes simples de 16 bits para um texto digitado pelo usuário. Feito para a disciplina DCC075 (Segurança em Sistemas de Computação, UFJF).
 
 
 ## Como executar
